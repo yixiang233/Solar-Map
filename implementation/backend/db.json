@@ -1,0 +1,24 @@
+{
+  "params": {
+    "bndBox": {
+      "sw": {
+        "latitude": 39.9472758,
+        "longitude": -75.162424
+      },
+      "ne": {
+        "latitude": 39.947873900000005,
+        "longitude": -75.1618548
+      }
+    },
+    "center": {
+      "latitude": 39.9475919,
+      "longitude": -75.16216519999999
+    },
+    "sunshine": 1458,
+    "cloudCover": 34.67,
+    "snowAcc": 0
+  },
+  "results": {
+    "nnRating": ""
+  }
+}
